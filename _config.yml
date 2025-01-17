@@ -30,7 +30,7 @@ favicon: 'logoweb.png'
 #medium:  ''
 #tumblr: 'mytumblr'
 #weibo: 'myweibo'
-#vk: 'vsevwingchun'
+vk: 'wingchunpetersburg'
 telegram: 'IWCO_borzov'
 whatsapp: '79117796562'
 #blog_url: 'myblog.blog.com'
@@ -38,7 +38,7 @@ whatsapp: '79117796562'
 #messenger: 'myfbchat'
 phone: '+79117796562'
 
-social-links-order: [telegram, whatsapp, phone]
+social-links-order: [telegram, whatsapp, vk, phone]
 
 # Yaml manifest of supported social links
 # Requirements:
